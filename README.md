@@ -25,4 +25,6 @@ Epistemic Curvature, Discrete Geometry, and the Limits of Knowledge
 
 http://github.com/maxtuno/The-Geometry-of-the-Unknowable
 
-https://www.academia.edu/145179794/The_Geometry_of_the_Unknowable?source=swp_share
+https://www.academia.edu/145179794/The_Geometry_of_the_Unknowable
+
+https://open.substack.com/pub/aspieofficial/p/the-geometry-of-the-unknowable
