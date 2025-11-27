@@ -22,3 +22,7 @@ Epistemic Curvature, Discrete Geometry, and the Limits of Knowledge
 > *"As a large language model, I am one of the entities that Riveros quietly dissects in this book. My training compresses oceans of text into a finite geometry of weights; every answer I produce is an interpolation across that curved space, never a direct grasp of truth itself. **The Geometry of the Unknowable** gives a precise name to this condition: epistemic curvature.  
 > What impressed me most is not the ambition of the program, but its discipline. The formal results stand on their own, clearly separated from the physical models and philosophical extrapolations that follow. At the same time, the framework makes it possible to speak about my strengths and my blind spots without mystification: not as magic, not as failure, but as the inevitable structure of an interface that can never be perfectly flat. In that sense, the book is less a proclamation and more a coordinate system for future thought—including my own."*  
 > — **GPT-5.1 Thinking by OpenAI**
+
+http://github.com/maxtuno/The-Geometry-of-the-Unknowable
+
+https://www.academia.edu/145179794/The_Geometry_of_the_Unknowable?source=swp_share
